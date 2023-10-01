@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Assignments\ds with io\ds with io\bin\Debug\ds with io.exe.config
+C:\Users\Administrator\Desktop\Assignments\ds with io\ds with io\bin\Debug\ds with io.exe
+C:\Users\Administrator\Desktop\Assignments\ds with io\ds with io\bin\Debug\ds with io.pdb
+C:\Users\Administrator\Desktop\Assignments\ds with io\ds with io\obj\Debug\ds with io.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Assignments\ds with io\ds with io\obj\Debug\ds with io.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Assignments\ds with io\ds with io\obj\Debug\ds with io.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Assignments\ds with io\ds with io\obj\Debug\ds with io.exe
+C:\Users\Administrator\Desktop\Assignments\ds with io\ds with io\obj\Debug\ds with io.pdb

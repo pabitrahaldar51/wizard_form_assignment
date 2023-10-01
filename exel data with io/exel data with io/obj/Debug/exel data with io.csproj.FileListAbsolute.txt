@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\Assignments\exel data with io\exel data with io\bin\Debug\exel data with io.exe.config
+C:\Users\Administrator\Desktop\Assignments\exel data with io\exel data with io\bin\Debug\exel data with io.exe
+C:\Users\Administrator\Desktop\Assignments\exel data with io\exel data with io\bin\Debug\exel data with io.pdb
+C:\Users\Administrator\Desktop\Assignments\exel data with io\exel data with io\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Administrator\Desktop\Assignments\exel data with io\exel data with io\bin\Debug\NPOI.dll
+C:\Users\Administrator\Desktop\Assignments\exel data with io\exel data with io\bin\Debug\NPOI.OOXML.dll
+C:\Users\Administrator\Desktop\Assignments\exel data with io\exel data with io\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Administrator\Desktop\Assignments\exel data with io\exel data with io\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Administrator\Desktop\Assignments\exel data with io\exel data with io\obj\Debug\exel data with io.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Assignments\exel data with io\exel data with io\obj\Debug\exel data with io.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Assignments\exel data with io\exel data with io\obj\Debug\exel data with io.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Assignments\exel data with io\exel data with io\obj\Debug\exel data with io.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Assignments\exel data with io\exel data with io\obj\Debug\exel data with io.exe
+C:\Users\Administrator\Desktop\Assignments\exel data with io\exel data with io\obj\Debug\exel data with io.pdb

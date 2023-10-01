@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Assignments\delete a file\delete a file\bin\Debug\delete a file.exe.config
+C:\Users\Administrator\Desktop\Assignments\delete a file\delete a file\bin\Debug\delete a file.exe
+C:\Users\Administrator\Desktop\Assignments\delete a file\delete a file\bin\Debug\delete a file.pdb
+C:\Users\Administrator\Desktop\Assignments\delete a file\delete a file\obj\Debug\delete a file.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Assignments\delete a file\delete a file\obj\Debug\delete a file.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Assignments\delete a file\delete a file\obj\Debug\delete a file.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Assignments\delete a file\delete a file\obj\Debug\delete a file.exe
+C:\Users\Administrator\Desktop\Assignments\delete a file\delete a file\obj\Debug\delete a file.pdb

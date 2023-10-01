@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Assignments\display all txt file and its content\display all txt file and its content\bin\Debug\display all txt file and its content.exe.config
+C:\Users\Administrator\Desktop\Assignments\display all txt file and its content\display all txt file and its content\bin\Debug\display all txt file and its content.exe
+C:\Users\Administrator\Desktop\Assignments\display all txt file and its content\display all txt file and its content\bin\Debug\display all txt file and its content.pdb
+C:\Users\Administrator\Desktop\Assignments\display all txt file and its content\display all txt file and its content\obj\Debug\display all txt file and its content.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Assignments\display all txt file and its content\display all txt file and its content\obj\Debug\display all txt file and its content.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Assignments\display all txt file and its content\display all txt file and its content\obj\Debug\display all txt file and its content.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Assignments\display all txt file and its content\display all txt file and its content\obj\Debug\display all txt file and its content.exe
+C:\Users\Administrator\Desktop\Assignments\display all txt file and its content\display all txt file and its content\obj\Debug\display all txt file and its content.pdb

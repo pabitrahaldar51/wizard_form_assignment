@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Assignments\crud on file\crud on file\bin\Debug\crud on file.exe.config
+C:\Users\Administrator\Desktop\Assignments\crud on file\crud on file\bin\Debug\crud on file.exe
+C:\Users\Administrator\Desktop\Assignments\crud on file\crud on file\bin\Debug\crud on file.pdb
+C:\Users\Administrator\Desktop\Assignments\crud on file\crud on file\obj\Debug\crud on file.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Assignments\crud on file\crud on file\obj\Debug\crud on file.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Assignments\crud on file\crud on file\obj\Debug\crud on file.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Assignments\crud on file\crud on file\obj\Debug\crud on file.exe
+C:\Users\Administrator\Desktop\Assignments\crud on file\crud on file\obj\Debug\crud on file.pdb

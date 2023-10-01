@@ -1,0 +1,145 @@
+using System;
+using System.Collections.Generic;
+
+
+namespace crud_on_userdefined_type_collection_in_list
+{
+    class product
+    {
+        public int pid { get; set; } 
+        public string pname { get; set; }
+        public string ptype { get; set; }
+        public double pcost { get; set; }
+    }
+    class crud
+    {
+        public product input()
+        {
+            product p = new product();  
+            Console.WriteLine("enter product id");
+            p.pid = int.Parse(Console.ReadLine());
+            Console.WriteLine("enter product name");
+            p.pname = Console.ReadLine();
+            Console.WriteLine("enter product type");
+            p.ptype = Console.ReadLine();
+            Console.WriteLine("enter product cost");
+            p.pcost = double.Parse(Console.ReadLine());
+            return p;
+        }
+
+        public int search(List<product> data)
+        {
+            Console.WriteLine("enter product name");
+            string s = Console.ReadLine();
+            int j=0;
+           foreach(product p in data)
+            {
+                if(p.pname.Contains(s)==true)
+                {
+                    j++;
+                }
+            }
+            if (j > 0)
+            {
+                Console.WriteLine("product "+s+" found");
+            }
+            else
+            {
+                Console.WriteLine("product not found");
+            }
+            return j;
+        }
+        public product remov(List<product> data)
+        {
+            product p1 = new product();
+            Console.WriteLine("enter product name");
+            string s = Console.ReadLine();
+            int j = 0;
+            foreach(product p in data)
+            {
+                if(p.pname.Contains(s)==true)
+                {
+                   p1=p;
+                    
+                }
+               
+            }
+            
+            return p1;
+        }
+        public List<product> modify(List<product> data)
+        {
+            Console.WriteLine("enter the index number that is to be modified");
+            int n = int.Parse(Console.ReadLine());
+            data[n] = input();
+            return data;
+        }
+        public void show(List<product> data)
+        { 
+            foreach(product p in data)
+            {
+                Console.WriteLine("product id:{0} product name:{1} product type:{2} product cost:{3}", p.pid, p.pname, p.ptype, p.pcost);
+            }
+        }
+}
+    
+    internal class Program
+    {
+        
+        static void Main(string[] args)
+        {
+            Console.Title = "Product CRUD";
+
+            product e = new product(); product e1 = new product();
+
+            List<product> list = new List<product>();
+            crud crud = new crud();
+            while(true)
+            {
+                Console.WriteLine("1.For add product\n2.For Remove product\n3.For Search a product\n4.For modify product\n5.For show all product");
+                string op = Console.ReadLine();
+                if(op=="1")
+                {
+                    list.Add(crud.input());
+                    Console.WriteLine("item added");
+                }
+                else if(op=="2")
+                {
+                    list.Remove(crud.remov(list));
+                    Console.WriteLine("item removed");
+                }
+                else if(op=="3")
+                {
+                    crud.search(list);
+                   
+                }
+                else if(op=="4")
+                {
+                    crud.modify(list);
+                    Console.WriteLine("product modified");
+                }
+                else if(op=="5")
+                {
+                    crud.show(list);
+                }
+                else
+                {
+                    Console.WriteLine("please chose valid option");
+                    continue;
+                }
+                Console.WriteLine("do you want to contine y/n");
+                string ch = Console.ReadLine();
+                if(ch=="y"|| ch=="Y")
+                {
+                    continue;
+                }
+                else
+                {
+                    break;
+                }
+            }
+            Console.ReadLine();
+            
+        }
+    }
+}

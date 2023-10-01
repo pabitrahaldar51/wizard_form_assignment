@@ -1,0 +1,8 @@
+C:\Users\Pabitra Haldar\Desktop\Assignments\2d array sorting\bin\Debug\2d array sorting.exe.config
+C:\Users\Pabitra Haldar\Desktop\Assignments\2d array sorting\bin\Debug\2d array sorting.exe
+C:\Users\Pabitra Haldar\Desktop\Assignments\2d array sorting\bin\Debug\2d array sorting.pdb
+C:\Users\Pabitra Haldar\Desktop\Assignments\2d array sorting\obj\Debug\2d array sorting.csproj.AssemblyReference.cache
+C:\Users\Pabitra Haldar\Desktop\Assignments\2d array sorting\obj\Debug\2d array sorting.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pabitra Haldar\Desktop\Assignments\2d array sorting\obj\Debug\2d array sorting.csproj.CoreCompileInputs.cache
+C:\Users\Pabitra Haldar\Desktop\Assignments\2d array sorting\obj\Debug\2d array sorting.exe
+C:\Users\Pabitra Haldar\Desktop\Assignments\2d array sorting\obj\Debug\2d array sorting.pdb

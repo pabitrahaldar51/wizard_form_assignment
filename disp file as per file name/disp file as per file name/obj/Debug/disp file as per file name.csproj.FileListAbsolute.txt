@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Assignments\disp file as per file name\disp file as per file name\bin\Debug\disp file as per file name.exe.config
+C:\Users\Administrator\Desktop\Assignments\disp file as per file name\disp file as per file name\bin\Debug\disp file as per file name.exe
+C:\Users\Administrator\Desktop\Assignments\disp file as per file name\disp file as per file name\bin\Debug\disp file as per file name.pdb
+C:\Users\Administrator\Desktop\Assignments\disp file as per file name\disp file as per file name\obj\Debug\disp file as per file name.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Assignments\disp file as per file name\disp file as per file name\obj\Debug\disp file as per file name.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Assignments\disp file as per file name\disp file as per file name\obj\Debug\disp file as per file name.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Assignments\disp file as per file name\disp file as per file name\obj\Debug\disp file as per file name.exe
+C:\Users\Administrator\Desktop\Assignments\disp file as per file name\disp file as per file name\obj\Debug\disp file as per file name.pdb

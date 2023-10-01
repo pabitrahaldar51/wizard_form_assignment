@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Assignments\Reject if content size is more than 1mb\Reject if content size is more than 1mb\bin\Debug\Reject if content size is more than 1mb.exe.config
+C:\Users\Administrator\Desktop\Assignments\Reject if content size is more than 1mb\Reject if content size is more than 1mb\bin\Debug\Reject if content size is more than 1mb.exe
+C:\Users\Administrator\Desktop\Assignments\Reject if content size is more than 1mb\Reject if content size is more than 1mb\bin\Debug\Reject if content size is more than 1mb.pdb
+C:\Users\Administrator\Desktop\Assignments\Reject if content size is more than 1mb\Reject if content size is more than 1mb\obj\Debug\Reject if content size is more than 1mb.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Assignments\Reject if content size is more than 1mb\Reject if content size is more than 1mb\obj\Debug\Reject if content size is more than 1mb.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Assignments\Reject if content size is more than 1mb\Reject if content size is more than 1mb\obj\Debug\Reject if content size is more than 1mb.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Assignments\Reject if content size is more than 1mb\Reject if content size is more than 1mb\obj\Debug\Reject if content size is more than 1mb.exe
+C:\Users\Administrator\Desktop\Assignments\Reject if content size is more than 1mb\Reject if content size is more than 1mb\obj\Debug\Reject if content size is more than 1mb.pdb

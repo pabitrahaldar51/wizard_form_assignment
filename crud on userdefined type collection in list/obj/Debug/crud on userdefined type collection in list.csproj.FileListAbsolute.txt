@@ -1,0 +1,8 @@
+C:\Users\Pabitra Haldar\Desktop\Assignments\crud on userdefined type collection in list\bin\Debug\crud on userdefined type collection in list.exe.config
+C:\Users\Pabitra Haldar\Desktop\Assignments\crud on userdefined type collection in list\bin\Debug\crud on userdefined type collection in list.exe
+C:\Users\Pabitra Haldar\Desktop\Assignments\crud on userdefined type collection in list\bin\Debug\crud on userdefined type collection in list.pdb
+C:\Users\Pabitra Haldar\Desktop\Assignments\crud on userdefined type collection in list\obj\Debug\crud on userdefined type collection in list.csproj.AssemblyReference.cache
+C:\Users\Pabitra Haldar\Desktop\Assignments\crud on userdefined type collection in list\obj\Debug\crud on userdefined type collection in list.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pabitra Haldar\Desktop\Assignments\crud on userdefined type collection in list\obj\Debug\crud on userdefined type collection in list.csproj.CoreCompileInputs.cache
+C:\Users\Pabitra Haldar\Desktop\Assignments\crud on userdefined type collection in list\obj\Debug\crud on userdefined type collection in list.exe
+C:\Users\Pabitra Haldar\Desktop\Assignments\crud on userdefined type collection in list\obj\Debug\crud on userdefined type collection in list.pdb
